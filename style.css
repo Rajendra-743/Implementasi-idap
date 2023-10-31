@@ -1,0 +1,259 @@
+* {
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.garis {
+  width: 100%;
+  height: 8px;
+  background-color: #eb6001;
+  color: #eb6001;
+}
+
+.navbar {
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+  margin: 10px;
+  text-decoration: none;
+  display: flex;
+  margin: 20px;
+}
+.navbar .header a {
+  list-style: none;
+  text-decoration: none;
+  text-align: none;
+  color: black;
+  margin: 10px;
+}
+
+.navbar .header a img {
+  margin-right: 400px;
+}
+
+.navbar input {
+  height: 35px;
+  width: 250px;
+  border-radius: 35px;
+  margin-left: 900px;
+}
+
+.input p {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.kasir a img {
+  display: flex;
+  width: 100%;
+  margin-top: 1px;
+}
+
+.berita {
+  justify-content: center;
+  display: flex;
+  margin-top: 20px;
+}
+
+.berita .manufaktur a img {
+  width: 400px;
+}
+
+.berita .farmasi a img {
+  width: 400px;
+}
+.berita .herbal a img {
+  width: 400px;
+}
+
+.berita .manufaktur {
+  margin-right: 5px;
+}
+.berita .manufaktur h3 {
+  margin: 5px;
+  margin-left: 20px;
+  color: #eb6001;
+}
+
+.berita .manufaktur h2 {
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.berita .manufaktur p {
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.berita .manufaktur a {
+  margin: 5px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: #eb6001;
+}
+
+.berita .farmasi {
+  margin-right: 5px;
+}
+.berita .farmasi h3 {
+  margin: 5px;
+  margin-left: 20px;
+  color: #eb6001;
+}
+
+.berita .farmasi h2 {
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.berita .farmasi p {
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.berita .farmasi a {
+  margin: 5px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: #eb6001;
+}
+
+.berita .herbal {
+  margin-right: 5px;
+}
+.berita .herbal h3 {
+  margin: 5px;
+  margin-left: 20px;
+  color: #eb6001;
+}
+
+.berita .herbal h2 {
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.berita .herbal p {
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.berita .herbal a {
+  margin: 5px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: #eb6001;
+}
+
+/* MENU NEWS
+*/
+
+.news {
+  justify-content: center;
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.news .manufaktur a img {
+  width: 400px;
+}
+
+.news .farmasi a img {
+  width: 400px;
+}
+.news .herbal a img {
+  width: 400px;
+}
+
+.news .manufaktur {
+  margin-right: 5px;
+}
+.news .manufaktur h3 {
+  margin: 5px;
+  margin-left: 20px;
+  color: #eb6001;
+}
+
+.news .manufaktur h2 {
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.news .manufaktur p {
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.news .manufaktur a {
+  margin: 5px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: #eb6001;
+}
+
+.news .farmasi {
+  margin-right: 5px;
+}
+.news .farmasi h3 {
+  margin: 5px;
+  margin-left: 20px;
+  color: #eb6001;
+}
+
+.news .farmasi h2 {
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.news .farmasi p {
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.news .farmasi a {
+  margin: 5px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: #eb6001;
+}
+
+.news .herbal {
+  margin-right: 5px;
+}
+.news .herbal h3 {
+  margin: 5px;
+  margin-left: 20px;
+  color: #eb6001;
+}
+
+.news .herbal h2 {
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.news .herbal p {
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.news .herbal a {
+  margin: 5px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: #eb6001;
+}
+
+.promosi {
+  background-color: #eb6001;
+  color: white;
+  text-align: center;
+}
+.promosi .promotion div a img {
+  margin-bottom: 20px;
+}
+.promo {
+  display: flex;
+}
+
+.promo div a img {
+  width: 400px;
+}
